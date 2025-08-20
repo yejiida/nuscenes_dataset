@@ -15,7 +15,12 @@ nuScenes 오픈소스에 대한 이해를 높이고자 공부하고, 실행한 �
 
 ### 2. 3D Object Detection
 - [CenterPoint](https://github.com/tianweiy/CenterPoint)  
-  → nuScenes에서 SOTA 성능 달성한 3D 객체 탐지 모델. LiDAR 기반.  
+  → nuScenes에서 SOTA 성능 달성한 3D 객체 탐지 모델. LiDAR 기반.
+
+## License
+본 프로젝트(`nuscenes_dataset`의 CenterPoint 레포)는 [CenterPoint 원본 레포](https://github.com/tianweiy/CenterPoint?tab=readme-ov-file)의 코드를 일부 참고 및 활용하였으며, MIT License 하에 배포됩니다.
+원본 코드의 저작권은 Tianwei Yin 및 Xingyi Zhou에게 있으며, MIT 라이선스 조건에 따라 사용 및 수정, 배포가 가능합니다.
+
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)  
   → OpenMMLab의 3D 감지 프레임워크. 다양한 모델(SECOND, PointPillars, CenterPoint) 지원.
 
