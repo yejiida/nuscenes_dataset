@@ -1,6 +1,6 @@
 ## 📚 참고 레포지토리
 
-nuScenes 오픈소스에 대한 이해를 높이고자 공부하고, 실행한 결과를 모아둔 레포지토리입니다.
+nuScenes 오픈소스에 대한 이해를 높이고자 혼자 공부하고, 실행한 결과를 모아둔 레포지토리입니다.
 
 ---
 [Timetable]
@@ -8,6 +8,7 @@ nuScenes 오픈소스에 대한 이해를 높이고자 공부하고, 실행한 �
 2025.08.19 nuScenes Official **fin.**
 
 2025.08.20 ~ 3D Object Detection [CenterPoint]  
+
 
 ### 1. nuScenes Official
 - [nuScenes-devkit (official)](https://github.com/nutonomy/nuscenes-devkit)  
